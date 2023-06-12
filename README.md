@@ -21,19 +21,24 @@ This is a simple weather application built with React that allows users to searc
    git clone https://github.com/iaroob/weather-app.git
    
 2. Navigate to the project directory:
-   ``` cd react-weather-app
+   ```shell
+   cd react-weather-app
 
 3. Install the dependencies:
-    ``` npm install
+    ```shell
+    npm install
     
 4. Obtain an API key from OpenWeatherMap by signing up on their website (https://openweathermap.org) and create a .env file in the project root directory. Add the following line to the .env file:
-    ``` API_KEY=your-api-key
+    ```shell
+    API_KEY=your-api-key
     
 5. Start the development server:
-    ``` npm start
+    ```shell
+    npm start
     
 6. Open the app in your browser:
-   ``` http://localhost:3000
+   ```shell
+   http://localhost:3000
 
 ## Usage
 - Enter a city and country in the input fields provided.
@@ -42,8 +47,8 @@ This is a simple weather application built with React that allows users to searc
 - Enjoy exploring the weather information for different locations!
 
 ## Acknowledgments
-- ** OpenWeatherMap ** for providing the weather data and API.
-- ** Bootstrap ** for the CSS framework
+- **OpenWeatherMap** for providing the weather data and API.
+- **Bootstrap** for the CSS framework
 
 
 # Getting Started with Create React App
