@@ -47,8 +47,8 @@ This is a simple weather application built with React that allows users to searc
 - Enjoy exploring the weather information for different locations!
 
 ## Acknowledgments
-- **OpenWeatherMap** for providing the weather data and API.
-- **Bootstrap** for the CSS framework
+- [OpenWeatherMap API](https://openweathermap.org/api) for providing the weather data and API.
+- [Bootstrap](https://getbootstrap.com) for the CSS framework
 
 
 # Getting Started with Create React App
