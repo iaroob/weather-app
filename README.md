@@ -1,3 +1,51 @@
+# React Weather App
+
+This is a simple weather application built with React that allows users to search for weather information of different locations based on city and country.
+
+## Features
+
+- Search for weather information by entering a city and country
+- Display current weather conditions including temperature, humidity, wind speed, and weather description
+- Responsive design for a seamless experience on different devices
+
+## Technologies Used
+
+- React: JavaScript library for building user interfaces
+- OpenWeatherMap API: Provides weather data for the app
+- Bootstrap: CSS framework for styling the app
+
+## Installation
+
+1. Clone the repository:
+   ```shell
+   git clone https://github.com/iaroob/weather-app.git
+   
+2. Navigate to the project directory:
+   ``` cd react-weather-app
+
+3. Install the dependencies:
+    ``` npm install
+    
+4. Obtain an API key from OpenWeatherMap by signing up on their website (https://openweathermap.org) and create a .env file in the project root directory. Add the following line to the .env file:
+    ``` API_KEY=your-api-key
+    
+5. Start the development server:
+    ``` npm start
+    
+6. Open the app in your browser:
+   ``` http://localhost:3000
+
+## Usage
+- Enter a city and country in the input fields provided.
+- Click the "Submit" button to view the weather information for the specified location.
+- The app will display the current weather conditions for the selected location.
+- Enjoy exploring the weather information for different locations!
+
+## Acknowledgments
+- ** OpenWeatherMap ** for providing the weather data and API.
+- ** Bootstrap ** for the CSS framework
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
