@@ -2,6 +2,9 @@
 
 This is a simple weather application built with React that allows users to search for weather information of different locations based on city and country.
 
+## Demo
+A live demo of the app can be found [here](https://iaroob.github.io/weather-app).
+
 ## Features
 
 - Search for weather information by entering a city and country
